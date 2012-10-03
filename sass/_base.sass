@@ -1,4 +1,50 @@
 // Imports
 
-@import susy
-@import vendor/normalize.min.css
+html
+	background: #fdf6e3
+	font-family: sans-serif
+	color: #586e75
+
+header
+	background: #073642
+	color: #eee8d5
+	+trailer
+
+h1
+	text-align: center
+	font-weight: bold
+	+adjust-font-size-to(24px)
+
+input
+	text-align: center
+	font-family: sans-serif
+	-webkit-appearance: none
+	border: none
+	+adjust-font-size-to(18px)
+	padding: +rhythm(.5, 18px)
+
+	&:focus
+		outline: none
+
+div[role="main"]
+	+container
+	+at-breakpoint($break)
+		+set-container-width
+
+body
+	//+susy-grid-background
+	+at-breakpoint($break)
+		//+susy-grid-background
+
+.result
+	h2
+		+adjust-font-size-to(24px)
+		color: #93a1a1
+
+#output
+	&:before
+		content: "$"
+		color: #859900
+		font-family: 'citizen_slab-webfont'
+		font-weight: normal
+		+trailer(1, 48px)

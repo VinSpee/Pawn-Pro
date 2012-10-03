@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?> <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" > <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<defs >
+<font horiz-adv-x="681" ><font-face
+    font-family="Citizen Slab"
+    units-per-em="2048"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="1645"
+    descent="-669"
+    alphabetic="0" />
+<missing-glyph horiz-adv-x="748" d="M68 0V1365H612V0H68ZM136 68H544V1297H136V68Z" />
+<glyph unicode="&#x0;" glyph-name="glyph3" horiz-adv-x="0" />
+<glyph unicode="&#xd;" glyph-name="uni000D" horiz-adv-x="976" />
+<glyph unicode=" " glyph-name="space" horiz-adv-x="976" />
+<glyph unicode="$" glyph-name="dollar" horiz-adv-x="1734" d="M0 -4V457H180Q180 334 251 256T434 178H629V481H532Q321 481 196 571T70 813Q70 963 193 1050T532 1137H629V1329H809V1137H956Q1050 1137 1128 1106V1200H1309V733H1128Q1128 828 1111 876T1059
+940T956 956H809V662H930Q1140 662 1265 572T1391 330Q1391 178 1267 89T930 0H809V-127H629V0H434Q293 0 180 82V-4H0ZM250 813Q250 773 275 743T342 695T432 670T532 662H629V956H532Q509 956 484 955T413 945T335 923T276 881T250 813ZM809 178H930Q952 178
+978 180T1048 191T1127 214T1186 259T1212 330T1187 400T1127 445T1049 469T978 479T930 481H809V178Z" />
+<glyph unicode="&#xa0;" glyph-name="uni00A0" horiz-adv-x="976" />
+<glyph unicode="&#x2000;" glyph-name="uni2000" horiz-adv-x="682" />
+<glyph unicode="&#x2001;" glyph-name="uni2001" horiz-adv-x="1365" />
+<glyph unicode="&#x2002;" glyph-name="uni2002" horiz-adv-x="682" />
+<glyph unicode="&#x2003;" glyph-name="uni2003" horiz-adv-x="1365" />
+<glyph unicode="&#x2004;" glyph-name="uni2004" horiz-adv-x="455" />
+<glyph unicode="&#x2005;" glyph-name="uni2005" horiz-adv-x="341" />
+<glyph unicode="&#x2006;" glyph-name="uni2006" horiz-adv-x="227" />
+<glyph unicode="&#x2007;" glyph-name="uni2007" horiz-adv-x="227" />
+<glyph unicode="&#x2008;" glyph-name="uni2008" horiz-adv-x="170" />
+<glyph unicode="&#x2009;" glyph-name="uni2009" horiz-adv-x="273" />
+<glyph unicode="&#x200a;" glyph-name="uni200A" horiz-adv-x="75" />
+<glyph unicode="&#x202f;" glyph-name="uni202F" horiz-adv-x="273" />
+<glyph unicode="&#x205f;" glyph-name="uni205F" horiz-adv-x="341" />
+<glyph unicode="&#xe000;" glyph-name="uniE000" horiz-adv-x="1136" d="M0 0V1137H1137V0H0Z" />
+</font>
+</defs>
+</svg>

@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title></title>
+		<title>Pawn Pro</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width">
 
@@ -15,13 +15,24 @@
 		<![endif]-->
 	</head>
 	<body>
+		<header>
+			<h1>Pawn Pro</h1>
+		</header>
+
 		<div role="main">
 
-			<p>Hello world! This is HTML5 Boilerplate.</p>
+				<section class="result">
+					<h2>They Paid:</h2>
+					<span id="output"></span>
+				</section>
+
+			<fieldset class="translate">
+				<input type="text" placeholder="Enter code from the tag" id="code">
+				<input type="button" value="Convert" onclick="convert()">
+			</fieldset>
 
 		</div>
 
-		<script src="js/plugins.js"></script>
-		<script src="js/main.js"></script>
+		<script src="js/marylouise.js"></script>
 	</body>
 </html>
